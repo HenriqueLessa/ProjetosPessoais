@@ -1,1 +1,2 @@
-export default baseUrl = "https://api.epicsevendb.com/" ;
+const _baseUrl = "https://api.epicsevendb.com";
+export default _baseUrl;
